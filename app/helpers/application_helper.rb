@@ -2,7 +2,7 @@ module ApplicationHelper
 
   def title
     if @title.blank?
-      "CFPApp"
+      "SparkBcn CFP"
     else
       @title
     end
